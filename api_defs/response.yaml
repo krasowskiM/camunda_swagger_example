@@ -1,0 +1,8 @@
+title: ApiResponse
+type: object
+properties:
+  messageKey:
+    type: string
+    enum:
+required:
+  - messageKey
